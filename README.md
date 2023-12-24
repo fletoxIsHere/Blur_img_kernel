@@ -1,3 +1,4 @@
+# se code applique deux comportement noir et blanc, blur sur l'image.
 
 //identifier votre image ici sur le code <br>
 image = Image.open('img1.jpg')
